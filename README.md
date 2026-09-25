@@ -8,39 +8,39 @@ Sistema de console (terminal) que permite gerenciar um estoque de produtos. Os d
 
 ## 🛠️ Tecnologias utilizadas
 
-- Java
-- Programação Orientada a Objetos (POO)
+* Java
+* Programação Orientada a Objetos (POO)
 
 ## ▶️ Como executar
 
 1. Clone o repositório:
-
-git clone https://github.com/wviianna/inventory-system-java.git
-
+   ```bash
+   git clone https://github.com/wviianna/inventory-system-java.git
+   ```
 2. Abra o projeto na sua IDE de preferência (IntelliJ, Eclipse, VS Code)
 3. Execute a classe principal (Main)
 4. Siga as instruções exibidas no console
 
 ## 🎯 Funcionalidades
 
-- [ ] Cadastrar produto
-- [ ] Listar produtos
-- [ ] Editar produto
-- [ ] Remover produto
-
-*(marque com [x] as que já estão prontas)*
+* [x] Cadastrar produto
+* [x] Listar produtos
+* [x] Editar produto
+* [x] Remover produto
+* [x] Buscar produto por nome ou código
+* [x] Calcular valor total do estoque
 
 ## 📚 O que estou aprendendo com este projeto
 
-- Lógica de programação em Java
-- Conceitos de Programação Orientada a Objetos (classes, atributos, métodos)
-- Organização de código e boas práticas com Git/GitHub
+* Lógica de programação em Java
+* Conceitos de Programação Orientada a Objetos (classes, atributos, métodos)
+* Organização de código e boas práticas com Git/GitHub
 
 ## 🔜 Próximos passos
 
-- Persistir os dados em um banco de dados (SQL)
-- Adicionar tratamento de exceções
-- Criar testes automatizados
+* Persistir os dados em um banco de dados (SQL)
+* Adicionar tratamento de exceções
+* Criar testes automatizados
 
 ## 👤 Autor
 
